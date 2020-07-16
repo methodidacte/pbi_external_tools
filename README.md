@@ -8,4 +8,4 @@ Editer si besoin ces fichiers pour modifier le chemin vers l'exécutable du prog
 
 La conversion des icones en base 64 a été réalisée à partir du site https://www.base64-image.de/ en retirant "data:" du code obtenu.
 
-![External tools menu](https://github.com/methodidacte/pbi_external_tools/menu.png?raw=true)
+![External tools menu](https://github.com/methodidacte/pbi_external_tools/blob/master/menu.png?raw=true)
